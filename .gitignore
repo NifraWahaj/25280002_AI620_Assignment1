@@ -48,14 +48,6 @@ kaggle.json
 *.key
 *.pem
 
-# Data files (optional - remove if you want to commit data)
-# Uncomment these lines if data files are too large for GitHub
-# data/raw/*.csv
-# data/raw/*.json
-# data/cleaned/*.csv
-# data/processed/*.json
-
-# Large files
 *.zip
 *.tar.gz
 *.rar

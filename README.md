@@ -23,8 +23,8 @@ This project implements a complete Extract-Load-Transform (ELT) pipeline integra
 - **6,016 stock records** across 8 FinTech/tech companies
 
 **View Pipeline:** [`docs/pipeline_diagram.jpg`](docs/pipeline_diagram.jpg)  
-**Assignment Analytical Answers:** [`docs/answers.md`](docs/answers.md)  
-**Brief Summary Report:** [`docs/report.md`](docs/report.md)
+**Assignment Analytical Answers:** [`docs/25280002_Answers.md`](docs/25280002_Answers.md)  
+**Brief Summary Report:** [`docs/25280002_Report.md`](docs/25280002_Report.md)
 
 ---
 
@@ -53,8 +53,8 @@ PA1/
 │   └── correlation_analysis.png
 │
 └── docs/
-    ├── answers.md             # Assignment responses
-    ├── report.md              # Executive summary
+    ├── 25280002_Answers.md             
+    ├── 25280002_Report.md              # Executive summary
     └── pipeline_diagram.jpg   # Architecture diagram
 ```
 
@@ -99,7 +99,6 @@ mkdir %USERPROFILE%\.kaggle
 move %USERPROFILE%\Downloads\kaggle.json %USERPROFILE%\.kaggle\
 ```
 
----
 
 ## Running the Pipeline
 
@@ -107,12 +106,6 @@ move %USERPROFILE%\Downloads\kaggle.json %USERPROFILE%\.kaggle\
 python run_all.py
 ```
 
-**Steps executed:**
-1. Extract data from NewsAPI, Google Trends, NASDAQ
-2. Clean and transform data with quality checks
-3. Generate 3 visualizations
-
----
 
 ## Output Files
 
