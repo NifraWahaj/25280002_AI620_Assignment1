@@ -1,0 +1,18 @@
+{
+  "total_records": 57,
+  "total_columns": 9,
+  "missing_values": {},
+  "duplicate_records": 0,
+  "duplicate_percentage": 0.0,
+  "data_types": {
+    "source": "object",
+    "author": "object",
+    "title": "object",
+    "description": "object",
+    "url": "object",
+    "urlToImage": "object",
+    "publishedAt": "object",
+    "content": "object",
+    "search_keyword": "object"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "total_records": 6016,
+  "total_columns": 6,
+  "missing_values": {},
+  "duplicate_records": 0,
+  "duplicate_percentage": 0.0,
+  "data_types": {
+    "ticker": "object",
+    "date": "object",
+    "open": "float64",
+    "high": "float64",
+    "low": "float64",
+    "close": "float64"
+  }
+}
